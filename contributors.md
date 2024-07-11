@@ -11,3 +11,6 @@
 
 -[Max Deff](https://github.com/maxdef89)
   Max Deff
+
+-[Richard Callaby](https://github.com/rcallaby)
+  Richard Callaby
