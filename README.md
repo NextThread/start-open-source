@@ -38,7 +38,7 @@ Now open **Contributors.md** file in a text editor, add your name to it. Don't a
 
 
 
-**git status**
+``**git status**``
 If you go to the project directory and execute the command git status, you'll see there are changes.
 
 Add those changes to the branch you just created using the git add command:
@@ -47,18 +47,18 @@ Add those changes to the branch you just created using the git add command:
 
 
 
-**git add Contributors.md**
+``**git add Contributors.md**``
 Now commit those changes using the git commit command:
 
 
-**git add .**
+``**git add .**``
 If you have done changes in multiple files. Else use the above command.
 
 
 
 
 
-git commit -m "Added your-name to Contributors list"
+``git commit -m "Added your-name to Contributors list"``
 replacing your-name with your name.
 
 
@@ -71,7 +71,7 @@ Push your changes using the command git push:
 
 
 
-**git push -u origin your-branch-name**
+``**git push -u origin your-branch-name**``
 replacing your-branch-name with the name of the branch you created earlier.
 
 
