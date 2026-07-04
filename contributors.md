@@ -14,3 +14,6 @@
 
 -[Richard Callaby](https://github.com/rcallaby)
   Richard Callaby
+
+-[Anurag Roy](https://github.com/NextThread)
+  Anurag Roy
